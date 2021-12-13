@@ -1,2 +1,3 @@
 # Snippets
-Code of popular algorithms
+Templates for some of most encountered Algorithm and Data Structure
+
